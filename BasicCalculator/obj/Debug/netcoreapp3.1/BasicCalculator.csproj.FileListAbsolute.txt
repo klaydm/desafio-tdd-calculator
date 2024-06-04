@@ -1,0 +1,14 @@
+C:\Users\bruno\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.exe
+C:\Users\bruno\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.deps.json
+C:\Users\bruno\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.runtimeconfig.json
+C:\Users\bruno\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.runtimeconfig.dev.json
+C:\Users\bruno\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.dll
+C:\Users\bruno\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.pdb
+C:\Users\bruno\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.AssemblyInfo.cs
+C:\Users\bruno\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.dll
+C:\Users\bruno\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.pdb
+C:\Users\bruno\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.genruntimeconfig.cache

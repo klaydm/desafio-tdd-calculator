@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = BasicCalculator
+build_property.ProjectDir = C:\Kennedy\DIO\Csharp\desafios\desafio-tdd-calculator\BasicCalculator\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
